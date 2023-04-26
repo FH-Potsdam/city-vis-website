@@ -59,5 +59,28 @@
     ["Priyanka Mary Mammen", "University of Massachussets, Amherst"],
     ["Hareesh Kumar", "Indian Institute of Technology Bombay"],
     ["Miriah Meyer", "Linköping University"]
-  ]
+  ],
+  
+  "ws_2023": [
+  ["Amit Jena", "Monash University"],
+  ["Asım Evren Yantaç", "Koç University"],
+  ["Benjamin Shapiro", "Georgia State University"],
+  ["Cagatay Turkay", "University of Warwick"],
+  ["Christoph Kinkeldey", "HAW Hamburg"],
+  ["Christopher Petit", "University of New South Wales"],
+  ["David Hunter", "Ravensbourne University"],
+  ["Giacomo Marinsalta", null],
+  ["Heike Vornhagen", "Insight Centre"],
+  ["Jonathan Kern Nelson", "University of Wisconsin-Madison"],
+  ["Juan Francisco Saldarriaga", "Columbia University"],
+  ["Liubov Tupikina", "Center for Research and Interdisciplinarity, Paris"],
+  ["Mennatullah Hendawy", "Technische Universität Berlin"],
+  ["Michael Szell", "IT University of Copenhagen"],
+  ["Nicole Hengesbach", "University of Warwick"],
+  ["Puripant Ruchikachorn", "Chulalongkorn University"],
+  ["Rodrigo Medeiros", "Instituto Federal da Paraíba"],
+  ["Sheng-Ming Ryan Wang", "National Taipei University of Technology"],
+  ["Till Nagel", "University of Applied Sciences Mannheim"],
+  ["Vincent Tourre", "École Centrale Nantes"]
+]
 }
