@@ -95,7 +95,7 @@ eleventyNavigation:
 						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/workshop-2023-en@2x.png" alt="CityVis Workshop 2023">
 				</a>
 				<div class="upcoming__events-event-title">Workshop 2023</div>
-				Submit an abstract and join our next workshop to contribute to the ongoing discourse on data governance in urban visualisation.
+				Submit an abstract and join our next workshop to contribute to the ongoing discourse on data governance in urban visualization.
 				<br/>
 				<a class="upcoming-link" href="/workshops/2023/">Join the conversation</a>
 		</div>
