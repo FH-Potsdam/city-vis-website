@@ -54,7 +54,7 @@ eleventyNavigation:
 				<br />
 				<a class="upcoming-link" href="/exhibitions/2022/symposium_de">Mehr erfahren &amp; registrieren</a>
 		</div>-->
-		<div class="upcoming__events-event">
+		<!--<div class="upcoming__events-event">
 				<a href="/exhibitions/2022/en">
 						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/exhibition-2022-en.png" alt="CityVis Exhibition 2022">
 				</a>
@@ -62,8 +62,8 @@ eleventyNavigation:
 				On November 3rd we will announce the winners of this year's competition. The best works will be exhibited in a 2-month public exhibition in Potsdam, Germany (and online).
 				<br />
 				<a class="upcoming-link" href="/exhibitions/2022/en">Learn more</a>
-		</div>
-		<div class="upcoming__events-event">
+		</div>-->
+		<!--<div class="upcoming__events-event">
 				<a href="/exhibitions/2022/de">
 						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/exhibition-2022-de.png" alt="CityVis Ausstellung 2022">
 				</a>
@@ -71,7 +71,7 @@ eleventyNavigation:
 				Am 3. November werden wir die Gewinner*innen des diesjährigen Wettbewerbs vorstellen. Die besten Arbeiten werden für zwei Monate in Potsdam öffentlich ausgestellt.
 				<br />
 				<a class="upcoming-link" href="/exhibitions/2022/de">Mehr erfahren</a>
-		</div>
+		</div>-->
 		<!--<div class="upcoming__events-event">
 				<a href="/workshops/2022/">
 						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/teaser-workshop-2022.png" alt="CityVis Workshop 2022">
@@ -90,5 +90,14 @@ eleventyNavigation:
 				<br />
 				<a class="upcoming-link" href="/competitions/2022/">Submit your project</a>
 		</div>-->
+	  <div class="upcoming__events-event">
+				<a href="/workshops/2023/">
+						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/workshop-2023-en@2x.png" alt="CityVis Workshop 2023">
+				</a>
+				<div class="upcoming__events-event-title">Workshop 2023</div>
+				Submit an abstract and join our next workshop to contribute to the ongoing discourse on data governance in urban visualisation.
+				<br/>
+				<a class="upcoming-link" href="/workshops/2023/">Join the conversation</a>
+		</div>
   </div>
 </section>
