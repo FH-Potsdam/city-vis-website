@@ -34,70 +34,16 @@ eleventyNavigation:
 </section>
 
 <section class="section upcoming upcoming-section">
-  <h2>Upcoming</h2>
+  <h2>News</h2>
   <div class="upcoming__events">
-		<!--<div class="upcoming__events-event">
-				<a href="/exhibitions/2022/symposium_en">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/symposium-2022-en.png" alt="CityVis Symposium 2022">
-				</a>
-				<div class="upcoming__events-event-title">Hybrid Symposium 2022</div>
-				We are excited to open this year's exhibition of urban data visualisation work with an exciting panel of speakers, broadening the discourse of the smart city with new perspectives. Join us online or in person.
-				<br />
-				<a class="upcoming-link" href="/exhibitions/2022/symposium_en">Learn more &amp; register now</a>
-		</div>
 		<div class="upcoming__events-event">
-				<a href="/exhibitions/2022/symposium_de">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/symposium-2022-de.png" alt="CityVis Symposium 2022">
+				<a href="https://cards.cityvis.io">
+						<img class="upcoming__events-event-image" src="../assets/img/cards/default@2x.png" alt="Urban Data Vis Card Deck">
 				</a>
-				<div class="upcoming__events-event-title">Hybrid Symposium 2022</div>
-				Wir freuen uns die diesjährige Ausstellung mit einem spannenden Panel von Sprecher*innen eröffnen zu dürfen, mit welchen wir den Diskurs um die "Smart City" mit neuen Perspektiven weiter öffnen wollen. Online oder in Person.
-				<br />
-				<a class="upcoming-link" href="/exhibitions/2022/symposium_de">Mehr erfahren &amp; registrieren</a>
-		</div>-->
-		<!--<div class="upcoming__events-event">
-				<a href="/exhibitions/2022/en">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/exhibition-2022-en.png" alt="CityVis Exhibition 2022">
-				</a>
-				<div class="upcoming__events-event-title">Exhibition 2022</div>
-				On November 3rd we will announce the winners of this year's competition. The best works will be exhibited in a 2-month public exhibition in Potsdam, Germany (and online).
-				<br />
-				<a class="upcoming-link" href="/exhibitions/2022/en">Learn more</a>
-		</div>-->
-		<!--<div class="upcoming__events-event">
-				<a href="/exhibitions/2022/de">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/exhibition-2022-de.png" alt="CityVis Ausstellung 2022">
-				</a>
-				<div class="upcoming__events-event-title">Ausstellung 2022</div>
-				Am 3. November werden wir die Gewinner*innen des diesjährigen Wettbewerbs vorstellen. Die besten Arbeiten werden für zwei Monate in Potsdam öffentlich ausgestellt.
-				<br />
-				<a class="upcoming-link" href="/exhibitions/2022/de">Mehr erfahren</a>
-		</div>-->
-		<!--<div class="upcoming__events-event">
-				<a href="/workshops/2022/">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/teaser-workshop-2022.png" alt="CityVis Workshop 2022">
-				</a>
-				<div class="upcoming__events-event-title">Workshop 2022</div>
-				Submit an abstract and join our next (hybrid) scientific workshop on Nov 4th, to contribute to the ongoing discourse on visualising cities.
+				<div class="upcoming__events-event-title">Urban Data Vis Card Deck</div>
+				A card deck for collaborative creation, critique calibration and curation of urban data visualisations
 				<br/>
-				<a class="upcoming-link" href="/workshops/2022/">Join the conversation</a>
-		</div>-->
-		<!--<div class="upcoming__events-event">
-				<a href="/competitions/2022/">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/teaser-competition-2022.png" alt="CityVis Competition 2022">
-				</a>
-				<div class="upcoming__events-event-title">Competition 2022</div>
-				Submit your visualisation to become part of the CityVis platform. The best contributions of 2022, will be announced and exhibition in November 2022.				
-				<br />
-				<a class="upcoming-link" href="/competitions/2022/">Submit your project</a>
-		</div>-->
-	  <div class="upcoming__events-event">
-				<a href="/workshops/2023/">
-						<img class="upcoming__events-event-image" src="../assets/img/upcoming-teasers/workshop-2023-en@2x.png" alt="CityVis Workshop 2023">
-				</a>
-				<div class="upcoming__events-event-title">Workshop 2023</div>
-				Submit an abstract and join our next workshop to contribute to the ongoing discourse on data governance in urban visualization.
-				<br/>
-				<a class="upcoming-link" href="/workshops/2023/">Join the conversation</a>
+				<a class="upcoming-link" href="https://cards.cityvis.io">Find out more</a>
 		</div>
   </div>
 </section>
