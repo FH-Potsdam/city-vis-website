@@ -11,3 +11,9 @@
   to = "https://cards.cityvis.io"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/cards/"
+  to = "https://cards.cityvis.io"
+  status = 301
+  force = true
