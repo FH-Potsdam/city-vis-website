@@ -12,7 +12,7 @@ eleventyExcludeFromCollections: true
 {%- for page in collections.all -%}
     {%- if page.url and page.data.redirectTo -%}
         {%- for newUrl in page.data.redirectTo %}
-{{ page.url }}    {{ page.newUrl }}
+{{ page.url }}    {{ newUrl }}
         {%- endfor -%}
     {%- endif -%}
 {%- endfor -%}
