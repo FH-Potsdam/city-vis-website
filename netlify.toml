@@ -5,3 +5,9 @@
 
 [dev]
   command = "npm run start"
+
+[[redirects]]
+  from = "/cards"
+  to = "https://cards.cityvis.io"
+  status = 301
+  force = true
